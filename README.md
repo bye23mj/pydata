@@ -5,6 +5,8 @@ published by O'Reilly Media
 
 [Buy the book on Amazon][1]
 
+github : https://github.com/wesm/pydata-book
+
 <a href="https://notebooks.azure.com/import/gh/wesm/pydata-book"><img src="https://notebooks.azure.com/launch.png" /></a>
 
 Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
